@@ -32,6 +32,6 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karolini-ronçani-pedrozo-48124b268/)](https://www.linkedin.com/in/karolini-ronçani-pedrozo-48124b268/)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:karolini188@gmail.com)](mailto:karolini188@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-KaroliniR-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karolini-ronçani-pedrozo-48124b268/)](https://www.linkedin.com/in/karolini-ronçani-pedrozo-48124b268/)
+[![Gmail Badge](https://img.shields.io/badge/-karolini188@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:karolini188@gmail.com)](mailto:karolini188@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/KaroliniR?label=follow&style=social)](https://github.com/KaroliniR)
