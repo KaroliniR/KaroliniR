@@ -30,7 +30,7 @@
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
 
-[![KahKahcode](https://github-readme-stats.vercel.app/api/top-langs/?username=KahKah&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![KaroliniR](https://github-readme-stats.vercel.app/api/top-langs/?username=KaroliniR&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Onde me encontrar
 
