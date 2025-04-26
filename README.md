@@ -2,7 +2,6 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando TIC na Universidade Federal de Santa Catarina.
-- 💼 Trabalhando como Bolsista no RexLab.
 - 🌱 Aprendendo mais a cada dia.
 
 ## Minhas Skills
